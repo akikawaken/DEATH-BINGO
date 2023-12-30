@@ -5,4 +5,4 @@
 # らいせんす
 mit license
 # original
-https://www.twitch.tv/videos/1910754484?t=02h10m38s
+https://www.youtube.com/watch?v=fYiDbxw2iUE&t=7789
